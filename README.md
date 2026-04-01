@@ -80,9 +80,9 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/ankit-pandey-936a9425b">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge" style="margin-right:10px;">
   </a>
-  &nbsp;&nbsp;
+
   <a href="https://t.me/x0Ankitx0">
     <img src="https://img.shields.io/badge/Telegram-Chat-blue?style=for-the-badge">
   </a>
