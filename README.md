@@ -121,25 +121,6 @@ Full-stack grocery delivery platform with admin dashboard, product management, a
 </tr>
 
 <tr>
-<td width="50%">
-
-<h3>📉 Flipkart Price Tracker</h3>
-
-<p>
-Automated price tracking system with Telegram alerts and historical price trend analysis.
-</p>
-
-<p>
-<img src="https://img.shields.io/badge/Python-yellow?style=flat-square">
-<img src="https://img.shields.io/badge/Web Scraping-blue?style=flat-square">
-<img src="https://img.shields.io/badge/Telegram Bot-blue?style=flat-square">
-</p>
-
-<a href="YOUR_GITHUB_LINK">
-  <img src="https://img.shields.io/badge/Code-View-black?style=for-the-badge">
-</a>
-
-</td>
 
 <td width="50%">
 
