@@ -78,9 +78,12 @@
 
 ## 📬 Connect With Me  
 
+<div align="center">
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge)](https://www.linkedin.com/in/ankit-pandey-936a9425b)
 [![Telegram](https://img.shields.io/badge/Telegram-Chat-blue?style=for-the-badge)](https://t.me/x0Ankitx0)
 
+</div>
 <hr style="border: 1px solid #333;">
 
 
