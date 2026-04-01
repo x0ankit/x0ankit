@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Ankit Raj</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?lines=Full+Stack+Developer;MERN+Stack+Engineer;AI+%26+Data+Science+Learner;Building+Real+World+Projects&center=true&width=550&height=45">
+  <img src="https://readme-typing-svg.herokuapp.com?lines=Full+Stack+Developer;MERN+Stack+Engineer;AI+%26+Data+Science+Learner;Building+Real+World+Projects&center=true&width=550&height=45&pause=1000&cursor=false">
 </p>
 
 <hr style="border: 1px solid #333;">
