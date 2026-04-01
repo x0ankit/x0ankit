@@ -26,9 +26,7 @@
 ## 🛠 Tech Stack  
 
 <p align="center">
-
-<img src="https://skillicons.dev/icons?i=js,react,nodejs,express,mysql,python,c,html,css,git,github" />
-
+  <img src="https://skillicons.dev/icons?i=js,react,nodejs,express,mysql,python,c,html,css,git,github" />
 </p>
 
 ---
@@ -80,12 +78,13 @@
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge)](https://www.linkedin.com/in/ankit-pandey-936a9425b)
-[![Telegram](https://img.shields.io/badge/Telegram-Chat-blue?style=for-the-badge)](https://t.me/x0Ankitx0)
+LinkedIn
+  
+Telegram
 
 </div>
----
 
+---
 
 ## ⚡ Fun Fact  
 
