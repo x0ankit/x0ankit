@@ -1,16 +1,96 @@
-## Hi there 👋
+<!-- PROFILE HEADER -->
+<h1 align="center">Hi 👋, I'm Ankit Raj</h1>
 
-<!--
-**x0ankit/x0ankit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?lines=Full+Stack+Developer;MERN+Stack+Engineer;AI+%26+Data+Science+Learner;Building+Real+World+Projects&center=true&width=550&height=45">
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!-- PROFILE VIEWS -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20views&color=0e75b6&style=flat" />
+</p>
+
+---
+
+## 🚀 About Me  
+
+- 💻 MERN Stack Developer (React + Node + MySQL)  
+- 📊 Exploring AI & Data Science (CDAC Internship)  
+- 🛒 Building GreenCart Grocery Delivery Platform  
+- 📉 Developed Flipkart Price Tracker (Scraping + Alerts + Analysis)    
+
+---
+
+## 🛠 Tech Stack  
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=js,react,nodejs,express,mysql,python,c,html,css,git,github" />
+
+</p>
+
+---
+
+## 📊 GitHub Analytics  
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=x0ankit&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=x0ankit&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+</p>
+
+---
+
+## 🔥 Streak Stats  
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=x0ankit&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+## 🏆 GitHub Trophies  
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=x0ankit&theme=tokyonight&no-frame=true&row=1&column=6" />
+</p>
+
+---
+
+## 🐍 Contribution Snake  
+
+<p align="center">
+  <img src="https://github.com/YOUR_USERNAME/x0ankit/blob/output/github-contribution-grid-snake.svg" />
+</p>
+
+---
+
+## 📌 Featured Projects  
+
+🚀 GreenCart Grocery App  
+→ MERN-based full-stack delivery system  
+
+📉 Flipkart Price Tracker  
+→ Python + scraping + Telegram alerts  
+
+---
+
+## 📬 Connect With Me  
+
+<p align="center">
+  <a href="www.linkedin.com/in/ankit-pandey-936a9425b"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge"></a>
+  <a href="YOUR_TELEGRAM"><img src="https://img.shields.io/badge/Telegram-Chat-blue?style=for-the-badge"></a>
+</p>
+
+---
+
+## ⚡ Fun Fact  
+
+💡 I believe in:  
+"Code. Build. Improve. Repeat."
+
+---
+
+<!-- FOOTER -->
+<p align="center">✨ Thanks for visiting my profile ✨</p>
