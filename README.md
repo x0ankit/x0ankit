@@ -80,11 +80,11 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/ankit-pandey-936a9425b">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge" style="margin-right:10px;">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge" style="display:inline-block; vertical-align:middle;">
   </a>
-
+  
   <a href="https://t.me/x0Ankitx0">
-    <img src="https://img.shields.io/badge/Telegram-Chat-blue?style=for-the-badge">
+    <img src="https://img.shields.io/badge/Telegram-Chat-blue?style=for-the-badge" style="display:inline-block; vertical-align:middle;">
   </a>
 </p>
 
