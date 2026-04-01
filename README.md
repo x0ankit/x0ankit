@@ -1,5 +1,7 @@
 <!-- PROFILE HEADER -->
+---
 <h1 align="center">Hi 👋, I'm Ankit Raj</h1>
+---
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?lines=Full+Stack+Developer;MERN+Stack+Engineer;AI+%26+Data+Science+Learner;Building+Real+World+Projects&center=true&width=550&height=45&pause=1000&cursor=false">
@@ -26,7 +28,9 @@
 ## 🛠 Tech Stack  
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,react,nodejs,express,mysql,python,c,html,css,git,github" />
+
+<img src="https://skillicons.dev/icons?i=js,react,nodejs,express,mysql,python,c,html,css,git,github" />
+
 </p>
 
 ---
@@ -78,12 +82,10 @@
 
 <div align="center">
 
-LinkedIn
-  
-Telegram
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge)](https://www.linkedin.com/in/ankit-pandey-936a9425b)
+[![Telegram](https://img.shields.io/badge/Telegram-Chat-blue?style=for-the-badge)](https://t.me/x0Ankitx0)
 
 </div>
-
 ---
 
 ## ⚡ Fun Fact  
@@ -95,3 +97,6 @@ Telegram
 
 <!-- FOOTER -->
 <p align="center">✨ Thanks for visiting my profile ✨</p>
+
+---
+
