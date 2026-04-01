@@ -81,13 +81,9 @@
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/ankit-pandey-936a9425b" target="_blank" rel="noopener noreferrer">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge">
-</a>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge)](https://www.linkedin.com/in/ankit-pandey-936a9425b)
 &nbsp;&nbsp;
-<a href="https://t.me/x0Ankitx0" target="_blank" rel="noopener noreferrer">
-  <img src="https://img.shields.io/badge/Telegram-Chat-blue?style=for-the-badge">
-</a>
+[![Telegram](https://img.shields.io/badge/Telegram-Chat-blue?style=for-the-badge)](https://t.me/x0Ankitx0)
 
 </div>
 
