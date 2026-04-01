@@ -28,7 +28,7 @@
   <img src="https://img.shields.io/badge/🌐 Portfolio-Visit-blueviolet?style=for-the-badge">
 </a>
 
-  
+&nbsp;&nbsp;
 
 <a href="https://github.com/x0ankit/x0ankit/raw/main/Resume_Ankit_Raj.pdf" target="_blank">
   <img src="https://img.shields.io/badge/📄 Resume-Download-green?style=for-the-badge">
