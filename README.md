@@ -79,7 +79,7 @@
 ## 📬 Connect With Me  
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/ankit-pandey-936a9425b">
+  <a href="">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge">
   </a>
   <a href="https://t.me/x0Ankitx0">
