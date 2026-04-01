@@ -9,7 +9,7 @@
   <img src="https://komarev.com/ghpvc/?username=x0ankit&label=Profile%20views&color=0e75b6&style=flat" />
 </p>
 
----
+<br><br><br>
 
 ## 🚀 About Me  
 
@@ -18,7 +18,7 @@
 - 🛒 Building GreenCart Grocery Platform  
 - 📉 Flipkart Price Tracker Developer  
 
----
+<br><br><br>
 
 ## 🧠 Portfolio & Resume  
 
@@ -36,7 +36,7 @@
 
 </div>
 
----
+<br><br><br>
 
 ## 🛠 Tech Stack  
 
@@ -44,7 +44,7 @@
   <img src="https://skillicons.dev/icons?i=js,react,nodejs,express,mysql,python,c,html,css,git,github" />
 </p>
 
----
+<br><br><br>
 
 ## 📊 GitHub Analytics  
 
@@ -53,7 +53,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=x0ankit&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
 </p>
 
----
+<br><br><br>
 
 ## 🔥 Streak Stats  
 
@@ -61,7 +61,7 @@
   <img src="https://streak-stats.demolab.com?user=x0ankit&theme=tokyonight&hide_border=true"/>
 </p>
 
----
+<br><br><br>
 
 ## 📊 Contribution Graph  
 
@@ -69,7 +69,7 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=x0ankit&theme=tokyo-night&hide_border=true" />
 </p>
 
----
+<br><br><br>
 
 ## 🐍 Contribution Snake  
 
@@ -77,7 +77,7 @@
   <img src="https://github.com/x0ankit/x0ankit/blob/output/github-contribution-grid-snake.svg" />
 </p>
 
----
+<br><br><br>
 
 ## 📌 Featured Projects  
 
@@ -87,7 +87,7 @@
 📉 Flipkart Price Tracker  
 → Python + scraping + Telegram alerts  
 
----
+<br><br><br>
 
 ## 📬 Connect With Me  
 
@@ -105,13 +105,13 @@
 
 </div>
 
----
+<br><br><br>
 
 ## ⚡ Fun Fact  
 
 💡 "Code. Build. Improve. Repeat."
 
----
+<br><br><br>
 
 <p align="center">
   ✨ Thanks for visiting my profile ✨
