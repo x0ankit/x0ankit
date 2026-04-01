@@ -30,7 +30,7 @@
 
   
 
-<a href="https://your-resume-link.com" target="_blank">
+<a href="https://github.com/x0ankit/x0ankit/raw/main/Resume_Ankit_Raj.pdf" target="_blank">
   <img src="https://img.shields.io/badge/📄 Resume-Download-green?style=for-the-badge">
 </a>
 
@@ -42,15 +42,6 @@
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=js,react,nodejs,express,mysql,python,c,html,css,git,github" />
-</p>
-
-<br>
-
-## 📊 GitHub Analytics  
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=x0ankit&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=x0ankit&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
 </p>
 
 <br>
