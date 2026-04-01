@@ -61,7 +61,7 @@
 ## 🐍 Contribution Snake  
 
 <p align="center">
-  <img src="https://github.com/YOUR_USERNAME/x0ankit/blob/output/github-contribution-grid-snake.svg" />
+  <img src="https://github.com/x0ankit/x0ankit/blob/output/github-contribution-grid-snake.svg" />
 </p>
 
 ---
@@ -79,8 +79,8 @@
 ## 📬 Connect With Me  
 
 <p align="center">
-  <a href="www.linkedin.com/in/ankit-pandey-936a9425b"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge"></a>
-  <a href="YOUR_TELEGRAM"><img src="https://img.shields.io/badge/Telegram-Chat-blue?style=for-the-badge"></a>
+  <a href="https://www.linkedin.com/in/ankit-pandey-936a9425b"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge"></a>
+  <a href="<a href="https://t.me/x0Ankitx0">"><img src="https://img.shields.io/badge/Telegram-Chat-blue?style=for-the-badge"></a>
 </p>
 
 ---
