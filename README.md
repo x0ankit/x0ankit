@@ -82,8 +82,8 @@
   <a href="https://www.linkedin.com/in/ankit-pandey-936a9425b">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge">
   </a>
-  
-  <a href="https://t.me/yourusername">
+  &nbsp;&nbsp;
+  <a href="https://t.me/x0Ankitx0">
     <img src="https://img.shields.io/badge/Telegram-Chat-blue?style=for-the-badge">
   </a>
 </p>
