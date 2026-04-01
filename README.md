@@ -16,7 +16,6 @@
 - 💻 MERN Stack Developer  
 - 📊 AI & Data Science Learner (CDAC Internship)  
 - 🛒 Building GreenCart Grocery Platform  
-- 📉 Flipkart Price Tracker Developer  
 
 <br>
 
