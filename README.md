@@ -50,10 +50,10 @@
 
 ---
 
-## 🏆 GitHub Trophies  
+## 📊 Contribution Graph  
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=x0ankit&theme=tokyonight&no-frame=true&row=1&column=6" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=x0ankit&theme=tokyo-night&hide_border=true" />
 </p>
 
 ---
