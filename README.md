@@ -72,12 +72,86 @@
 
 ## 📌 Featured Projects  
 
-🚀 GreenCart Grocery App  
-→ MERN-based full-stack delivery system  
+<h2 align="center">📌 Featured Projects</h2>
 
-📉 Flipkart Price Tracker  
-→ Python + scraping + Telegram alerts  
+<br>
 
+<table align="center">
+<tr>
+<td width="50%">
+
+<h3>💬 GupShup Chat App</h3>
+
+<p>
+Real-time MERN chat application using <b>Socket.IO</b> with typing indicators, online status, JWT auth, and Cloudinary image sharing.
+</p>
+
+<p>
+<img src="https://img.shields.io/badge/React-blue?style=flat-square">
+<img src="https://img.shields.io/badge/Node.js-green?style=flat-square">
+<img src="https://img.shields.io/badge/MongoDB-brightgreen?style=flat-square">
+<img src="https://img.shields.io/badge/Socket.IO-black?style=flat-square">
+</p>
+
+<a href="https://github.com/x0ankit/gupshup-app">
+  <img src="https://img.shields.io/badge/Code-View-black?style=for-the-badge">
+</a>
+
+</td>
+
+<td width="50%">
+
+<h3>🚀 GreenCart Grocery App</h3>
+
+<p>
+Full-stack grocery delivery platform with admin dashboard, product management, and order processing system.
+</p>
+
+<p>
+<img src="https://img.shields.io/badge/React-blue?style=flat-square">
+<img src="https://img.shields.io/badge/Node.js-green?style=flat-square">
+<img src="https://img.shields.io/badge/MySQL-orange?style=flat-square">
+</p>
+
+<a href="https://github.com/x0ankit/dailybasket_MERN_Project">
+  <img src="https://img.shields.io/badge/Code-View-black?style=for-the-badge">
+</a>
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+<h3>📉 Flipkart Price Tracker</h3>
+
+<p>
+Automated price tracking system with Telegram alerts and historical price trend analysis.
+</p>
+
+<p>
+<img src="https://img.shields.io/badge/Python-yellow?style=flat-square">
+<img src="https://img.shields.io/badge/Web Scraping-blue?style=flat-square">
+<img src="https://img.shields.io/badge/Telegram Bot-blue?style=flat-square">
+</p>
+
+<a href="YOUR_GITHUB_LINK">
+  <img src="https://img.shields.io/badge/Code-View-black?style=for-the-badge">
+</a>
+
+</td>
+
+<td width="50%">
+
+<h3>🚧 More Coming Soon</h3>
+
+<p>
+Currently building more full-stack and AI-based projects.
+</p>
+
+</td>
+</tr>
+</table>
 <br>
 
 ## 📬 Connect With Me  
