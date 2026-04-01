@@ -76,18 +76,6 @@
 
 <hr style="border: 1px solid #333;">
 
-## 📬 Connect With Me  
-
-<p align="center">
-  <a href="">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge">
-  </a>
-  <a href="https://t.me/x0Ankitx0">
-    <img src="https://img.shields.io/badge/Telegram-Chat-blue?style=for-the-badge">
-  </a>
-</p>
-
-<hr style="border: 1px solid #333;">
 
 ## ⚡ Fun Fact  
 
