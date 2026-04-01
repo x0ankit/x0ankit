@@ -30,7 +30,7 @@
 
 &nbsp;&nbsp;
 
-<a href="https://github.com/x0ankit/x0ankit/raw/main/Resume_Ankit_Raj.pdf" target="_blank">
+<a href="https://github.com/x0ankit/x0ankit/raw/main/Resume_AnkitRaj.pdf" target="_blank">
   <img src="https://img.shields.io/badge/📄 Resume-Download-green?style=for-the-badge">
 </a>
 
