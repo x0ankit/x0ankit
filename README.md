@@ -76,9 +76,12 @@
 
 <br>
 
-<table align="center">
+<div align="center">
+
+<table>
 <tr>
-<td width="50%">
+
+<td width="45%">
 
 <h3>💬 GupShup Chat App</h3>
 
@@ -99,7 +102,7 @@ Real-time MERN chat application using <b>Socket.IO</b> with typing indicators, o
 
 </td>
 
-<td width="50%">
+<td width="45%">
 
 <h3>🚀 GreenCart Grocery App</h3>
 
@@ -118,23 +121,16 @@ Full-stack grocery delivery platform with admin dashboard, product management, a
 </a>
 
 </td>
-</tr>
-<br>
 
-<tr>
-
-<td width="50%">
-
-<h3>🚧 More Coming Soon</h3>
-
-<p>
-Currently building more full-stack and AI-based projects.
-</p>
-
-</td>
 </tr>
 </table>
+
+</div>
+
 <br>
+
+<p align="center"><i>🚧 More projects coming soon...</i></p>
+
 
 ## 📬 Connect With Me  
 
