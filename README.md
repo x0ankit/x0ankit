@@ -122,14 +122,44 @@ Full-stack grocery delivery platform with admin dashboard, product management, a
 </td>
 
 </tr>
+
+<tr>
+
+<td width="45%">
+
+<h3>📄 AskDocs AI</h3>
+
+<p>
+AI-powered PDF assistant built with <b>Streamlit</b>, <b>Ollama</b>, <b>Llama 3</b>, FAISS, and Hugging Face embeddings. Upload PDFs, ask questions, generate summaries, and create quizzes.
+</p>
+
+<p>
+<img src="https://img.shields.io/badge/Python-blue?style=flat-square">
+<img src="https://img.shields.io/badge/Streamlit-red?style=flat-square">
+<img src="https://img.shields.io/badge/FAISS-orange?style=flat-square">
+<img src="https://img.shields.io/badge/Ollama-black?style=flat-square">
+</p>
+
+<a href="https://github.com/x0ankit/AskDocs">
+  <img src="https://img.shields.io/badge/Code-View-black?style=for-the-badge">
+</a>
+
+</td>
+
+<td width="45%">
+
+<h3>🚧 More Projects Coming Soon</h3>
+
+<p>
+More full-stack, AI, and developer-focused projects will be added here soon.
+</p>
+
+</td>
+
+</tr>
 </table>
 
 </div>
-
-<br>
-
-<p align="center"><i>🚧 More projects coming soon...</i></p>
-
 
 ## 📬 Connect With Me  
 
