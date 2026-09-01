@@ -1,20 +1,17 @@
 # Hi 👋, I'm Ankit Raj
 
-MTech Student @ IIITM Gwalior | Full-Stack (MERN) Developer | AI/ML Enthusiast
+MTech (Information & Cyber Security) @ IIITM Gwalior | Full-Stack (MERN) Developer | Networking & Systems
 
 ## 🚀 About Me
 
-- 🎓 Pursuing MTech at **IIITM Gwalior**
+- 🎓 Pursuing MTech in **Information and Cyber Security** at **IIITM Gwalior** (CSE Dept.)
 - 💻 Full-Stack Developer (MERN Stack)
-- 🤖 Exploring AI/ML — LLMs, RAG pipelines, and applied AI tools
-- 🌐 Also into low-level systems & networking (auth'd network bridging, OS
-  repair, access point configuration)
+- 🤖 Also building with AI — LLMs, RAG pipelines, applied AI tools
 
 ## 🧠 Portfolio & Resume
 
-[Portfolio](https://your-portfolio-link.com) · [Resume](https://github.com/x0ankit/x0ankit/raw/main/Resume_AnkitRaj.pdf)
+[Resume](https://github.com/x0ankit/x0ankit/raw/main/Resume_AnkitRaj.pdf)
 
-*(Update these links if outdated)*
 
 ## 🛠 Tech Stack
 
@@ -38,6 +35,13 @@ AI-powered PDF assistant built with Streamlit, Ollama, Llama 3, FAISS, and
 Hugging Face embeddings. Upload PDFs, ask questions, generate summaries, and
 create quizzes.
 🔗 https://github.com/x0ankit/AskDocs
+
+### 🔐 Enterprise Network Bridging & Authentication (Personal Lab)
+Configured a JioRouter (JCOW404) to bridge 802.1X/EAP-TLS authenticated wired
+Ethernet into Wi-Fi in passthrough/bridge mode, interoperating with an
+Aruba-managed gateway. Also deployed a TP-Link Omada EAP225 access point and
+performed a manual DISM-based Windows registry repair (corrupted SYSTEM hive)
+using a split WIM image.
 
 ### 🚧 More Projects Coming Soon
 More full-stack, AI, and systems-focused projects will be added here soon.
