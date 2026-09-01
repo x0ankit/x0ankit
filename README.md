@@ -165,7 +165,7 @@ More full-stack, AI, and developer-focused projects will be added here soon.
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/ankit-pandey-936a9425b" target="_blank">
+<a href="https://www.linkedin.com/in/ankit-raj-936a9425b/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge">
 </a>
 
