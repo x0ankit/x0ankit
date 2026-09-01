@@ -1,59 +1,190 @@
-# Hi 👋, I'm Ankit Raj
+<!-- HEADER -->
+<h1 align="center">Hi 👋, I'm Ankit Raj</h1>
 
-MTech (Information & Cyber Security) @ IIITM Gwalior | Full-Stack (MERN) Developer | Networking & Systems
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?lines=Full+Stack+Developer;MERN+Stack+Engineer;AI+%26+Data+Science+Learner;Building+Real+World+Projects&center=true&width=550&height=45&pause=1000&cursor=false">
+</p>
 
-## 🚀 About Me
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=x0ankit&label=Profile%20views&color=0e75b6&style=flat" />
+</p>
 
-- 🎓 Pursuing MTech in **Information and Cyber Security** at **IIITM Gwalior** (CSE Dept.)
-- 💻 Full-Stack Developer (MERN Stack)
-- 🤖 Also building with AI — LLMs, RAG pipelines, applied AI tools
+<br>
 
-## 🧠 Portfolio & Resume
+## 🚀 About Me  
 
-[Resume](https://github.com/x0ankit/x0ankit/raw/main/Resume_AnkitRaj.pdf)
+- 💻 MERN Stack Developer  
+- 📊 AI & Data Science Learner (CDAC Internship)  
+- 🛒 Building GreenCart Grocery Platform  
 
+<br>
 
-## 🛠 Tech Stack
+## 🧠 Portfolio & Resume  
 
-`JavaScript` `React` `Node.js` `Express` `MySQL` `Python` `C` `HTML` `CSS`
-`Git` `GitHub`
+<div align="center">
 
-## 📌 Featured Projects
+<a href="https://your-portfolio-link.com" target="_blank">
+  <img src="https://img.shields.io/badge/🌐 Portfolio-Visit-blueviolet?style=for-the-badge">
+</a>
 
-### 💬 GupShup Chat App
-Real-time MERN chat application using Socket.IO with typing indicators,
-online status, JWT auth, and Cloudinary image sharing.
-🔗 https://github.com/x0ankit/gupshup-app
+&nbsp;&nbsp;
 
-### 🚀 GreenCart Grocery App
-Full-stack grocery delivery platform with admin dashboard, product
-management, and order processing system.
-🔗 https://github.com/x0ankit/dailybasket_MERN_Project
+<a href="https://github.com/x0ankit/x0ankit/raw/main/Resume_AnkitRaj.pdf" target="_blank">
+  <img src="https://img.shields.io/badge/📄 Resume-Download-green?style=for-the-badge">
+</a>
 
-### 📄 AskDocs AI
-AI-powered PDF assistant built with Streamlit, Ollama, Llama 3, FAISS, and
-Hugging Face embeddings. Upload PDFs, ask questions, generate summaries, and
-create quizzes.
-🔗 https://github.com/x0ankit/AskDocs
+</div>
 
-### 🔐 Enterprise Network Bridging & Authentication (Personal Lab)
-Configured a JioRouter (JCOW404) to bridge 802.1X/EAP-TLS authenticated wired
-Ethernet into Wi-Fi in passthrough/bridge mode, interoperating with an
-Aruba-managed gateway. Also deployed a TP-Link Omada EAP225 access point and
-performed a manual DISM-based Windows registry repair (corrupted SYSTEM hive)
-using a split WIM image.
+<br>
 
-### 🚧 More Projects Coming Soon
-More full-stack, AI, and systems-focused projects will be added here soon.
+## 🛠 Tech Stack  
 
-## 📬 Connect With Me
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,react,nodejs,express,mysql,python,c,html,css,git,github" />
+</p>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge)](https://www.linkedin.com/in/ankit-raj-936a9425b/)
-[![Telegram](https://img.shields.io/badge/Telegram-Chat-blue?style=for-the-badge)](https://t.me/x0Ankitx0)
+<br>
 
-## ⚡ Fun Fact
+## 🔥 Streak Stats  
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=x0ankit&theme=tokyonight&hide_border=true"/>
+</p>
+
+<br>
+
+## 📊 Contribution Graph  
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=x0ankit&theme=tokyo-night&hide_border=true" />
+</p>
+
+<br>
+
+## 🐍 Contribution Snake  
+
+<p align="center">
+  <img src="https://github.com/x0ankit/x0ankit/blob/output/github-contribution-grid-snake.svg" />
+</p>
+
+<br>
+
+## 📌 Featured Projects  
+
+<h2 align="center">📌 Featured Projects</h2>
+
+<br>
+
+<div align="center">
+
+<table>
+<tr>
+
+<td width="45%">
+
+<h3>💬 GupShup Chat App</h3>
+
+<p>
+Real-time MERN chat application using <b>Socket.IO</b> with typing indicators, online status, JWT auth, and Cloudinary image sharing.
+</p>
+
+<p>
+<img src="https://img.shields.io/badge/React-blue?style=flat-square">
+<img src="https://img.shields.io/badge/Node.js-green?style=flat-square">
+<img src="https://img.shields.io/badge/MongoDB-brightgreen?style=flat-square">
+<img src="https://img.shields.io/badge/Socket.IO-black?style=flat-square">
+</p>
+
+<a href="https://github.com/x0ankit/gupshup-app">
+  <img src="https://img.shields.io/badge/Code-View-black?style=for-the-badge">
+</a>
+
+</td>
+
+<td width="45%">
+
+<h3>🚀 GreenCart Grocery App</h3>
+
+<p>
+Full-stack grocery delivery platform with admin dashboard, product management, and order processing system.
+</p>
+
+<p>
+<img src="https://img.shields.io/badge/React-blue?style=flat-square">
+<img src="https://img.shields.io/badge/Node.js-green?style=flat-square">
+<img src="https://img.shields.io/badge/MySQL-orange?style=flat-square">
+</p>
+
+<a href="https://github.com/x0ankit/dailybasket_MERN_Project">
+  <img src="https://img.shields.io/badge/Code-View-black?style=for-the-badge">
+</a>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="45%">
+
+<h3>📄 AskDocs AI</h3>
+
+<p>
+AI-powered PDF assistant built with <b>Streamlit</b>, <b>Ollama</b>, <b>Llama 3</b>, FAISS, and Hugging Face embeddings. Upload PDFs, ask questions, generate summaries, and create quizzes.
+</p>
+
+<p>
+<img src="https://img.shields.io/badge/Python-blue?style=flat-square">
+<img src="https://img.shields.io/badge/Streamlit-red?style=flat-square">
+<img src="https://img.shields.io/badge/FAISS-orange?style=flat-square">
+<img src="https://img.shields.io/badge/Ollama-black?style=flat-square">
+</p>
+
+<a href="https://github.com/x0ankit/AskDocs">
+  <img src="https://img.shields.io/badge/Code-View-black?style=for-the-badge">
+</a>
+
+</td>
+
+<td width="45%">
+
+<h3>🚧 More Projects Coming Soon</h3>
+
+<p>
+More full-stack, AI, and developer-focused projects will be added here soon.
+</p>
+
+</td>
+
+</tr>
+</table>
+
+</div>
+
+## 📬 Connect With Me  
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/ankit-raj-936a9425b/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge">
+</a>
+
+  
+
+<a href="https://t.me/x0Ankitx0" target="_blank">
+  <img src="https://img.shields.io/badge/Telegram-Chat-blue?style=for-the-badge">
+</a>
+
+</div>
+
+<br>
+
+## ⚡ Fun Fact  
 
 💡 "Code. Build. Improve. Repeat."
 
----
-✨ Thanks for visiting my profile ✨
+<br>
+
+<p align="center">
+  ✨ Thanks for visiting my profile ✨
+</p>
